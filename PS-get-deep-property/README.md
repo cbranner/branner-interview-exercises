@@ -12,5 +12,4 @@
 ## Candidate Notes:
 
 Open index.html
-Choose a vehicle make from the dropdown
-Click each button to get the value from the object.
+Open index.html and in Console run: getDeepProperty();
